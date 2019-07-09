@@ -1,0 +1,19 @@
+.about {
+    background-color: rgb(33, 37, 41);
+    height: 100vh;
+    position: relative;
+}
+
+.container {
+    width: 80%;
+    height: 80vh;
+    background-color: #fff;
+}
+
+#profilePic {
+    width: 256px;
+    height: 192px;
+    float: left;
+    padding: 15px;
+}
+

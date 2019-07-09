@@ -1,0 +1,19 @@
+.rightNav {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #27221F;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 34%;
+    z-index: 999;
+    height: 87px;
+    opacity: .8;
+}
+
+.pageLinks {
+    font-family: Roboto;
+    text-decoration: none;
+    color: #fff;
+}

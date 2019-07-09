@@ -1,0 +1,48 @@
+
+
+header {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 4rem;
+    color: #fff;
+    font-family: Roboto;
+}
+
+header p {
+    font-weight: 700;
+    font-size: 1.75rem;
+    color: #fff;
+    font-family: Roboto;
+}
+
+header a {
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);
+    font-weight: 700;
+   
+    color: #fff;
+    padding: 1.25rem 2.5rem;
+    text-decoration: none;
+    border-radius: .25rem;
+    display: inline-block;
+
+}
+
+.banner {
+    padding-top: 150px;
+}
+.banner hr{
+    width: 75%;
+    color: red;
+}
+.social-links i{
+    color: white;
+    font-size: 5em;
+    padding: 8px;
+  }
+
+
