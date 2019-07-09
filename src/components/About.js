@@ -13,10 +13,8 @@ class About extends Component {
       <div id="About" className="about">
         <AboutNav logoTitle="About" />
         <div class="container">
-        <h2>About Me</h2>
 
         <div>
-          <hr />
         </div>
 
         <img src={Mitch} id="profilePic"/>
@@ -27,7 +25,7 @@ class About extends Component {
               Trust Administration and Family Law. With the desire to enter a new field of work and tap into my creative side, I obtained
     a certificate for web development from UC Berkeley Extension.</p>
 
-          <img src="../assets/img/" id="mugs"/>
+          <img src={Mugs} id="mugs"/>
 
             <p>My intrests include making pottery, watching baseball, and spending time outside. I am a member of the Red
     Ox Clay Studio in Concord, CA where I make and sell my pottery.</p>

@@ -40,7 +40,7 @@ class Project extends Component {
           <h4 style={{width: '298px', margin: '0px', color: '#fff', backgroundColor: '#27221F', opacity: '.9', position: 'fixed', top: '15px', left: '0', paddingTop: '10px', paddingBottom: '10px'}}>{this.props.title}</h4>
           <p style={{fontSize: '14px', color: '#fff'}}>{this.props.text}</p>
           <a href="https://twin-clicks.herokuapp.com/" target="_blank" style={{position: 'fixed', bottom: '15px', left: '55px', textDecoration: 'none', color: 'red', fontSize: '18px', fontWeight: '600', fontFamily:'Roboto'}}>Demo</a>
-          <a href='https://dashboard.heroku.com/apps/twin-clicks' target="_blank" style={{position: 'fixed', bottom: '15px', right: '55px', textDecoration: 'none', color: 'red', fontSize: '18px', fontWeight: '600', fontFamily:'Roboto'}}>Heroku</a>
+          <a href='https://github.com/mitchevans/ClickGame' target="_blank" style={{position: 'fixed', bottom: '15px', right: '55px', textDecoration: 'none', color: 'red', fontSize: '18px', fontWeight: '600', fontFamily:'Roboto'}}>Github</a>
           
         </BackSide>
       </Flippy>

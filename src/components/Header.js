@@ -15,9 +15,9 @@ class Header extends Component {
     render () {
         return (
             <header id="Home" style={myStyles}>
-            <NavBar logoTitle="Mitchell Evans"/>
+            <NavBar logoTitle=""/>
                 <div className="banner">
-                        <h1> Full Stack Web Developer</h1>
+                        <h1>Mitchell Evans</h1>
 
                         <hr/>
 
