@@ -17,19 +17,19 @@ class Projects extends Component {
             <ProjectNav logoTitle="Projects"/>
            
             
-            <Project    text="A memory game made with React and Bootstap. The object of the game is to click on each character once without repeting. The characters will shuffle position after every click." 
+            <Project    text="A memory game made with React and Bootstap. The object of the game is to click on each character once without repeting." 
                         title="Twin Clicks"
                         
             />
-            <Burger    text="Order burgers and devour them with MongoDB"
+            <Burger    text="Order burgers and devour them with this application created with MySQL, Node, Express and Handlebars."
                         title="Hawaiian Burger"
                        
             />
-            <Office    text="Test your knowledge of The Office in this trivia game. Tecnology used "
+            <Office    text="Test your knowledge of The Office in this trivia game. Tecnology used: Javascript, MomentJS."
                         title="The Office Trivia"
                         
             />
-            <Park     text="Guess the names of dinosaurs in this hangman style game. Tecnology used: momentJS, javascript"
+            <Park     text="Guess the names of dinosaurs in this hangman style game. Tecnology used: MomentJS, JQuery."
                         title="Guessasaurus"
             />
         </div>
