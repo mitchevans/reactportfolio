@@ -13,8 +13,8 @@ function App() {
     <div className="App">
       <RightNav/>
       <Header title="Mitchell Evans" />
-      <Projects/>
       <About/>
+      <Projects/>
       <Contact/>
     </div>
   );

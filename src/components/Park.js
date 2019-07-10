@@ -30,13 +30,13 @@ class Park extends Component {
             backgroundImage: `url( ${Word} )`,
             backgroundSize: 'cover',
             display: 'flex',
-            border: 'solid', borderRadius: '5px', borderWidth: '1px', borderColor: '#fff'
+            border: 'solid', borderWidth: '1px', borderColor: '#fff'
           }}
         >
           <a  style={{ fontSize: '32px', fontWeight: '700', margin: 'auto', textAlign: 'center'}} >Learn More</a>
         </FrontSide>
         <BackSide
-          style={{ border: 'solid', borderRadius: '5px', borderWidth: '1px', borderColor: '#fff', backgroundImage: `url( ${Tim} )`,backgroundSize: 'cover', position: 'absolute', display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
+          style={{ border: 'solid', borderWidth: '1px', borderColor: '#fff', backgroundImage: `url( ${Tim} )`,backgroundSize: 'cover', position: 'absolute', display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
           <h4 style={{width: '298px', margin: '0px', color: '#fff', backgroundColor: '#27221F', opacity: '.9', position: 'fixed', top: '15px', left: '0', paddingTop: '10px', paddingBottom: '10px'}}>{this.props.title}</h4>
           <p style={{fontSize: '14px', color: '#fff'}}>{this.props.text}</p>
           <a href="https://mitchevans.github.io/Word_Guess_Game/" target="_blank" style={{position: 'fixed', bottom: '15px', left: '55px', textDecoration: 'none', color: 'red', fontSize: '18px', fontWeight: '600', fontFamily:'Roboto'}}>Demo</a>

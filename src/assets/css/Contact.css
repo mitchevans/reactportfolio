@@ -3,3 +3,19 @@
     height: 100vh;
     position: relative;
 }
+
+#contactList {
+    float: right;
+    width: 20%;
+    background-color: red;
+}
+
+#contactPic {
+    
+    height: 400px;
+    float: left;
+    margin-right: 20px;
+    border: solid;
+    border-width: 1px;
+    border-color: #fff;
+}
