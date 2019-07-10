@@ -17,11 +17,11 @@ class Contact extends Component {
           <h2>Mitchell Evans</h2>
           <hr/>
           <ul>
-          <li><i className="fa fa-phone-square" aria-hidden="true" /> (925)708-7160</li>
+          <li><i className="fa fa-phone-square" aria-hidden="true"/> (925) 708-7160</li>
           <li><i className="fa fa-envelope" aria-hidden="true" /> mrmtevans@gmail.com</li>
           <li><i className="fa fa-linkedin-square" aria-hidden="true" /> https://www.linkedin.com/in/evans-mitchell/</li>
           <li><i className="fa fa-github-square" aria-hidden="true" /> https://github.com/mitchevans</li>
-          
+          <li><i className="fa fa-instagram" aria-hidden="true" /> https://www.instagram.com/mitchtevans/</li>
           </ul>
         </div>
        

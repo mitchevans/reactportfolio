@@ -4,7 +4,7 @@ import '../assets/css/RightNav.css';
 
 class RightNav extends Component {
   render() {
-    const sections = ['Home', 'Projects','About', 'Contact'];
+    const sections = ['Home', 'About', 'Projects', 'Contact'];
     const navLinks = sections.map(section => {
       return (
         <a className='pageLinks' href={'#' + section}>{section}</a>
